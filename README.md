@@ -10,7 +10,8 @@ Power BI- interactive dashboard creation
 Excel/CSV- data source
 
 # Dashboard Preview
-[Dashboard screenshot](https://github.com/shelkejuee/Customer-Feedback-Analysis/blob/main/Customer%20feedback.png)
+<img width="895" height="498" alt="Customer feedback" src="https://github.com/user-attachments/assets/43d5f847-3ff4-4f6b-a2d8-8665615c0c70" />
+
 
 # Key insights
 - Customer satisfaction score trends
@@ -24,5 +25,5 @@ Excel/CSV- data source
 # Author
 Juee Shelke
 Aspiring data analyst | skilled in SQL,Python,Power bi,Tableau and data visualization.
-
+🔗 [Connect on LinkedIn](linkedin.com/in/juee-shelke)
 
