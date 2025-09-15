@@ -10,10 +10,10 @@ Power BI- interactive dashboard creation
 Excel/CSV- data source
 
 # Dashboard Preview
-(https://1drv.ms/i/c/766880f757d1ab0e/EUjVx0E7V4RLhASJ7DOS9nIBNZD2Cecad9Lv5MUTOyBrKA?e=9gEZh5)---Dashboard Screenshot
+[Dashboard screenshot]()
 
 # Download PBIX file
 
-[click here to download customer feedback analysis .pbix](
+[click here to download customer feedback analysis .pbix](https://github.com/shelkejuee/Customer-Feedback-Analysis/blob/main/Customer%20Feedback.pbix)
 
 
