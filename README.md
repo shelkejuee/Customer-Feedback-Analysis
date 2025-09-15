@@ -1,4 +1,4 @@
-# Customer-Feedback-Analysis
+# Customer-Feedback-Analysis (python,pandas,power BI)
 
 Analyze customer feedback data using python(pandas) for data cleaning and Power BI for visualization.
 This project helps businesses understand customer sentiments ,identify improvement areas ,and tracks satisfaction trends.
